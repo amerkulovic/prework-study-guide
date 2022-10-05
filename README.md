@@ -20,9 +20,7 @@ To install the code you will need to go to GitHub and install it from there. You
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+To use the webpage all you have to do is open the page and look at the section you want to learn about. There are examples and text within each topic that will help you understand the topic better. We also added JS functionality and that can be seen through the console.
 
 ![alt text](assets/images/screenshot.png)
 
